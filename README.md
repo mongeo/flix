@@ -21,4 +21,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/WJ2TB8N4Ja.gif" width=250><br>
 
 ### Notes
-My files were moved to my iDrive and after moving them back to my local machine and running the pod init and then committing I think somehow might've messed up my version controll with git.
+
